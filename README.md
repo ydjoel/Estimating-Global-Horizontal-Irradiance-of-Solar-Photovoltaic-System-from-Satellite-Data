@@ -6,8 +6,10 @@ Please cite the above paper if you intend to use whole/part of the code. This co
 
 # Code Organization
 
-- `data analysis.ipynb` Analysis of ground & satellite GHI data to identify the relation b/w them
-- `download data.ipynb` To download reanalysis satellite data from CDS(NOAA)
+- `model & results.ipynb` Predictive Modelling of the data after gaining insights from EDA.
+- `eda & plots.ipynb`Conducted statistical tests, analyzed data distributions, and selected relevant feature spaces to gain a comprehensive understanding of the data.
+- `eda & plots - plotly.ipynb`  Utilized Plotly to generate more visually appealing plots and enhance data visualization.
+- `download data.ipynb`  To download satellite data from CDS(NOAA)
 
 ## Data Files
 
